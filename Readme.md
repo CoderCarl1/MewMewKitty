@@ -1,12 +1,18 @@
-## Mew Kitty Challenge
+# Mew Kitty Challenge
 This is a challenge to help learners of JS target DOM nodes, use keyboard events, and learn about parseInt.
 
 Current working version: [https://mewmewkitty.netlify.app/](https://mewmewkitty.netlify.app/)
 
 
-### Challenge explanation
+## Challenge explanation
 You are going to create a mini game where you can move MewMew left/ right/ and make him jump! 
 ![Image of MewMew](./images/Cat.jpg)
+
+### Checklist
+
+- use the left button to move left
+- use the right button to move right
+- use the jump button to jump
 
 *You shouldnt have to update any of the existing CSS (but feel free to if you would like to)*
 
@@ -33,9 +39,14 @@ You are going to create a mini game where you can move MewMew left/ right/ and m
 
 
 
-### *_EXTRA Challenge_*
+## *_EXTRA Challenge_*
 
 Add further events that allow you to press keyboard keys instead of or in addition to the button clicks.
 
 i.e. Press the Left Arrow on your keyboard to move Left
 
+### Advanced challenge checklist
+ 
+- use the <kbd>left arrow</kbd> to move left
+- use the <kbd>right arrow</kbd> to move right
+- use the <kbd>spacebar</kbd> to jump
